@@ -10,4 +10,3 @@ python -m trainer.main \
     --lr 0.001 \
     --max_epochs 100 \
     --conv_type separable \
-    --loss_fct nll \

@@ -24,6 +24,9 @@ https://arxiv.org/abs/1801.04381
 Optimized version of `MobileNetV2`. While smaller and more compute efficient, accuracy seems to fall short significantly.
 https://arxiv.org/abs/1905.02244
 
+### Data Augmentation
+We use horizontal flips as a regularization technique. Here we don't do a detailed breakdown on its effect on accuracy, but experiments showed no significant boost.
+
 ### Results
 
 | Architecture        | Accuracy | GFlops  | MParams  |
