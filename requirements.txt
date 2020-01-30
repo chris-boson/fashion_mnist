@@ -1,0 +1,6 @@
+numpy
+torch
+torchvision
+tensorboard
+tqdm
+git+https://github.com/kuan-wang/pytorch-OpCounter.git
